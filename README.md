@@ -12,4 +12,5 @@
 
 <br>
 
-![BlogsApi](blogapi.png)
+![BlogsApi](api.png)
+![Blogs](jwt.png)
